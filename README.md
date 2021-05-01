@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-  Domain-Specific Language Implementation for Conceptual Modelling of Relational Databases
+  Domain-Specific Language Implementation for Conceptual Modeling of Relational Databases
 
 <h4 align="center"> 
 
@@ -58,7 +58,7 @@
 	> /org.xtext.unipampa.erdsl/src/org/xtext/unipampa/erdsl/ErDsl.xtext
 
 
-	5.1.After changes or additions, rigth click *ErDsl.xtext* file.
+	5.1.After changes or additions, right click *ErDsl.xtext* file.
 
 	5.2. In the context menu select *Run As* **>>** *Generate Xtext Artifacts*. 
 
